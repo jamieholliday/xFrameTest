@@ -1,0 +1,29 @@
+{
+  "name": "x-frame-test",
+  "version": "1.0.0",
+  "description": "cli tool to check if a url can be opened in an iframe",
+  "keywords": [
+    "iframe",
+    "X-Frame-Options"
+  ],
+  "author": "Jamie Holliday",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jamieholliday/xFrameTest.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "request": "^2.67.0"
+  },
+  "bin": {
+    "xFrameTest": "index.js"
+  },
+  "preferGlobal": true
+}

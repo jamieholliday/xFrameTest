@@ -9,7 +9,7 @@
   "author": "Jamie Holliday",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jamieholliday/xFrameTest.js.git"
+    "url": "git+https://github.com/jamieholliday/xFrameTest.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
